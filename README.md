@@ -1,6 +1,6 @@
-# Kaggle-Digit-Recognizer
+# MNIST-CNN-DigitRecognizer-Kaggle
 Competition "Digit Recognizer - Learn computer vision fundamentals with the famous MNIST data" from kaggle.  
-The project was used to personally record learning CNN and use in specific problems.   
+The project was used to personally record learning CNN and use in specific problems. Accuracy: 99.3%.  
 
 "data" folder includes the train data and test data in zip form.  
 "main.ipynb" is the source code of the project including some notes I took.  
